@@ -21,4 +21,4 @@ It listens for a hotkey (`F8`) to toggle auto-skipping on and off.
 Install dependencies with:
 
 ```bash
-pip install pynput pyautogui pygetwindow
+pip install pynput pyautogui pygetwindow pillow
